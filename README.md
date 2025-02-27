@@ -1,4 +1,4 @@
-Below is the complete Markdown content for your README. You can copy all of the text below, paste it into a plain text editor (such as Notepad or VS Code), and then save the file as **README.md**. This file will be formatted in Markdown when viewed on GitHub.
+
 
 ---
 
